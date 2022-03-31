@@ -1,6 +1,8 @@
-# Recommending Articles
+# Recommending Articles Intro
 
 Thanks to Prof. [Terence Parr](https://github.com/parrt) for his guidance and support in this school project. 
+
+* Note: The `glove.6B.300d.txt` can be download from [here](https://www.kaggle.com/datasets/thanakomsn/glove6b300dtxt).
 
 *All projects in this class are individual projects, not group projects.  You may not look at or discuss code with others until after you have submitted your own individual effort.*
 
