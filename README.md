@@ -13,7 +13,7 @@ Find my [code](https://github.com/zren15/Data-Acqusition-Implementation/tree/mai
 Here is the example:
 
 <img src='twitter_sentiment_analysis/figures/parrt-follows.png' width="150" align="right"> 
-<img src='twitter_sentiment_analysis/figures/parrt-tweets.png' width="550" >
+<img src='twitter_sentiment_analysis/figures/parrt-tweets.png' width="600" >
 
 ### Work I have done
 + Scrape data from Twitter
@@ -31,8 +31,8 @@ Find my [code](https://github.com/zren15/Data-Acqusition-Implementation/tree/mai
 
 Here is the example:
 
-<img src='article_recommender/figures/article1.png' width="380"  align="right">
-<img src='article_recommender/figures/article2.png' width="380" >
+<img src='article_recommender/figures/article1.png' width="400"  align="right">
+<img src='article_recommender/figures/article2.png' width="400" >
 
 
 Thanks to Prof. [Terence Parr](https://github.com/parrt) for his guidance and support in this school project.
