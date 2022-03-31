@@ -13,7 +13,7 @@ Find my [code](https://github.com/zren15/Data-Acqusition-Implementation/tree/mai
 Here is the example:
 
 <img src='twitter_sentiment_analysis/figures/parrt-follows.png' width="150" align="right"> 
-<img src='twitter_sentiment_analysis/figures/parrt-tweets.png' width="600" >
+<img src='twitter_sentiment_analysis/figures/parrt-tweets.png' width="650" >
 
 ### Work I have done
 + Scrape data from Twitter
