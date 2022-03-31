@@ -31,7 +31,7 @@ Find my [code](https://github.com/zren15/Data-Acqusition-Implementation/tree/mai
 
 Here is the example:
 
-<img src='article_recommender/figures/article1.png' width="480"  align="left">
+<img src='article_recommender/figures/article1.png' width="480"  align="right">
 <img src='article_recommender/figures/article2.png' width="480" >
 
 
