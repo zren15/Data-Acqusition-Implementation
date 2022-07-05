@@ -27,7 +27,7 @@ Find my [code](https://github.com/zren15/Data-Acqusition-Implementation/tree/mai
 
 - In the `BBC articles recommendation` project, we utilized the [BBC Articles](https://github.com/zren15/Data-Acqusition-Implementation/tree/main/article_recommender/Code/bbc) copyright from [BBC data](http://mlg.ucd.ie/datasets/bbc.html) to replicate a basic BBC website. We applied a natural language processing technique word2vec [Glove](https://nlp.stanford.edu/projects/glove/) to calculate the 'closeness' among articles.
 
-- Finally, we displayed the article recommendations based on similar word vector centroid using HTML, jinja2, flask, gunicorn, AWS. On the web page, we will find the cloest 5 articles names on the right.
+- Finally, we displayed the article recommendations based on similar word vector centroid using HTML, jinja2, flask, gunicorn, AWS. On the web page, we will find the closest 5 articles names on the right.
 
 Here is the example:
 
